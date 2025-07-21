@@ -2,8 +2,6 @@
 
 I'm a Mobile App Developer | Flutter Enthusiast | Building apps & improving daily | build cross-platform apps for Android, iOS
 
-
-<small>
 - 🔭 Improving my skills as a software engineer
    
 - 🌱 Currently learning **Flutter Development**
@@ -29,7 +27,6 @@ I'm a Mobile App Developer | Flutter Enthusiast | Building apps & improving dail
       <a href="https://facebook.com/khaleddev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
       <a href="mailto:khaled.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
     </p>
-</small>
 
 ### Some projects
 
@@ -38,9 +35,10 @@ I'm a Mobile App Developer | Flutter Enthusiast | Building apps & improving dail
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledMansour14&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMansour14&layout=compact&theme=radical" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledMansour14&show_icons=true&theme=radical" width="48%"/>
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMansour14&layout=compact&theme=radical" width="34%"/>
 </p>
 
 ### 🌍 Platforms I Build For
@@ -58,6 +56,7 @@ I'm a Mobile App Developer | Flutter Enthusiast | Building apps & improving dail
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p><p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
